@@ -1,2 +1,2 @@
-console.log('Юрый привет');
+console.log('Приветики');
 console.log('Здрасте');
