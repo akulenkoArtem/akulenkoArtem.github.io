@@ -1,1 +1,1 @@
-console.log('Юрый привет');
+console.log('Приветики');
